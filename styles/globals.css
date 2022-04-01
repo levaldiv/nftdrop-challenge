@@ -1,3 +1,20 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    /****** [id].tsx ******/
+    /* shadow-[0_20px_20px_-17px_rgba(0,111,255,0.65)]  transition ease-in-out delay-100 */
+    .btnBoxShadow {
+        @apply shadow-[0_25px_25px_-20px_#ad1deb] hover:-translate-y-1 hover:scale-100 hover:shadow-[0_30px_45px_-15px_#2876f9] duration-200
+    }
+
+    .btnTextStyle {
+        @apply text-[#ff3232] font-bold
+    }
+ 
+    .btnGradient {
+        @apply bg-gradient-to-br from-[#380036] to-[#0cbaba]
+    }
+    /**********************/
+}
