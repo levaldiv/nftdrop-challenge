@@ -3,7 +3,8 @@ How's it going everyone! This here is a Web3.0 NFT Challenge! We were tasked to 
 that featured NFTs, styling, 3rd Web, and more. This was definitely a challeging BUT exciting build 
 as it focused on what most Big Companies use today.
 
-<stong>NOTE: <stong>
+**NOTE: ** This is all created using Thrid Web and the Rinkeby Test Network. THIS IS NOT REAL 
+ETHEREUM. 
 
 Here is a preview:
 ![](/NFT_Challenge.JPG)
