@@ -7,10 +7,10 @@
 
 # Sanity files
 /studio/node_modules
+/typings-customs/TypeWriter.d.ts
 
 # testing
 /coverage
-/typings-customs
 
 # next.js
 /.next/
